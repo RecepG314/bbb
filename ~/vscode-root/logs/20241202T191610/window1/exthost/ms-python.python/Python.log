@@ -1,0 +1,8 @@
+2024-12-02 19:16:17.754 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-12-02 19:16:17.754 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-12-02 19:16:17.754 [info] Experiment 'pythonTestAdapter' is active
+2024-12-02 19:16:17.754 [warning] Dir "/root/ros2_ws/src/sjtu_drone/.pixi/envs" is not watchable (directory does not exist)
+2024-12-02 19:16:17.754 [info] Python interpreter path: /bin/python3
+2024-12-02 19:16:18.381 [info] > pyenv which python
+2024-12-02 19:16:18.381 [info] cwd: .
+2024-12-02 19:16:19.601 [info] Starting Pylance language server.
