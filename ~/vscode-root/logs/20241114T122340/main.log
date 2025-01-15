@@ -1,7 +1,0 @@
-2024-11-14 12:23:41.036 [info] update#setState idle
-2024-11-14 12:23:46.037 [error] CodeWindow: failed to load (reason: ERR_FAILED, code: -2)
-2024-11-14 12:23:59.000 [info] Extension host with pid 335 exited with code: 0, signal: unknown.
-2024-11-14 12:24:00.333 [error] CodeWindow: failed to load (reason: ERR_FAILED, code: -2)
-2024-11-14 12:24:11.038 [info] update#setState checking for updates
-2024-11-14 12:24:11.044 [info] update#setState available for download
-2024-11-14 14:14:14.697 [warning] No ptyHost heartbeat after 6 seconds

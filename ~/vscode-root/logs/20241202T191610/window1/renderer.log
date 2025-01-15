@@ -1,8 +1,0 @@
-2024-12-02 19:16:15.266 [info] Started local extension host with pid 2147.
-2024-12-02 19:16:18.184 [info] [perf] Render performance baseline is 39ms
-2024-12-02 19:17:07.164 [info] Started local extension host with pid 2450.
-2024-12-02 19:17:09.795 [info] [perf] Render performance baseline is 21ms
-2024-12-02 19:17:39.277 [info] Started local extension host with pid 2491.
-2024-12-02 19:17:41.879 [info] [perf] Render performance baseline is 55ms
-2024-12-02 19:18:01.921 [error] [File Watcher] Unexpected error: inotify_add_watch on '//proc/2020/task/2478/net/nfsfs' failed: No such file or directory (EUNKNOWN) (path: /)
-2024-12-02 19:18:01.922 [error] [File Watcher (universal)] inotify_add_watch on '//proc/2020/task/2478/net/nfsfs' failed: No such file or directory
